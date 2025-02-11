@@ -2,8 +2,7 @@
 
 An interactive **A/B testing calculator and results analyzer** built with **Streamlit**. This app helps users determine the required **sample size** for an A/B test and analyze the statistical significance of test results.
 
-![Streamlit Screenshot](https://user-images.githubusercontent.com/placeholder) *(Add a screenshot of your app here)*
-
+!![Output](Screenshot(129).png)
 ---
 
 ## 🚀 Features
